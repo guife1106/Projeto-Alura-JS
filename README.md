@@ -1,1 +1,1 @@
-# Projeto-Pong-JS
+# Projeto-Alura-JavaScript
